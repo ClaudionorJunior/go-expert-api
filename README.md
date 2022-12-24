@@ -21,10 +21,14 @@ http://localhost:8000/docs/index.html
 ```
 
 ## Autor
-<div style="display:flex;">
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://avatars.githubusercontent.com/u/82416762?v=4" width=60 style="border-radius: 30px"><br>
-    <a href="https://github.com/ClaudionorJunior">Github</a>
-    <a href="https://www.linkedin.com/in/claudionorsilva">Linkedin</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <th><img src="https://avatars.githubusercontent.com/u/82416762?v=4" width=60></th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ClaudionorJunior">Github</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/claudionorsilva">Linkedin</a></td>
+  </tr>
+</table>
