@@ -21,10 +21,10 @@ http://localhost:8000/docs/index.html
 ```
 
 ## Autor
-<view style="display:flex;">
-  <view style="display:flex; flex-direction:column; align-items:center;">
+<div style="display:flex;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img src="https://avatars.githubusercontent.com/u/82416762?v=4" width=60 style="border-radius: 30px"><br>
     <a href="https://github.com/ClaudionorJunior">Github</a>
     <a href="https://www.linkedin.com/in/claudionorsilva">Linkedin</a>
-  </view>
-</view>
+  </div>
+</div>
